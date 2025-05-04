@@ -1,6 +1,7 @@
 <template>
   <div>
     <h3>我是App</h3>
+    <h3>我是App</h3>
   </div>
 </template>
 
