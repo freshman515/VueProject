@@ -5,7 +5,7 @@ import App from './App.vue'
 createApp(App).mount('#app')
 const func = () =>
 {
-    console.log('hello')
+  console.log('hello')
 }
 
 func()
